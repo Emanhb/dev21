@@ -21,7 +21,7 @@ class MyApp extends StatelessWidget {
         primaryColor: Color(0xFF0A0E21),
         scaffoldBackgroundColor: Color(0xFF0A0E21),
       ),
-      title: 'BMI',
+      title: 'BaMI',
       routes: {
         '/': (context) => InputScreen(),
         '/result': (context) => ResultsPage(),
